@@ -1,0 +1,11 @@
+.banner{
+   grid-template-columns: 4,1fr;
+gap: 30px; 
+   
+    justify-content: flex-end;
+
+
+}
+.arc-1{
+    text-align: center;
+}
